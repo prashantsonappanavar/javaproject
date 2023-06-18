@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author fujitsu
+ *
+ */
+module demo {
+}
